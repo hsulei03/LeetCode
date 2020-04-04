@@ -1,0 +1,5 @@
+D:\GitRepository\LeetCode\LeetCodes\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.dll
+D:\GitRepository\LeetCode\LeetCodes\LeetCodeSolutions\bin\Debug\LeetCodeSolutions.pdb
+D:\GitRepository\LeetCode\LeetCodes\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.csprojAssemblyReference.cache
+D:\GitRepository\LeetCode\LeetCodes\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.dll
+D:\GitRepository\LeetCode\LeetCodes\LeetCodeSolutions\obj\Debug\LeetCodeSolutions.pdb

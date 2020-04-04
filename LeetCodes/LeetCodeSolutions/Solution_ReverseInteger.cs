@@ -4,9 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Solution
+namespace LeetCodeSolutions
 {
-    public class Class1
+    class Solution_ReverseInteger
     {
+        public int Reverse(int x)
+        {
+
+
+        }
     }
 }
