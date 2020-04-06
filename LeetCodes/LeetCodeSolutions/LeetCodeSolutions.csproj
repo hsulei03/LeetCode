@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Solution_PalindromeNumber.cs" />
     <Compile Include="Solution_ReverseInteger.cs" />
     <Compile Include="Solution_TwoSum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
